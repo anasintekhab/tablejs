@@ -1,0 +1,4 @@
+line1 - you are downloading a file //5s
+line2 - login //1s
+line3 - fetch data //2s
+line4 - doing computation //1s
